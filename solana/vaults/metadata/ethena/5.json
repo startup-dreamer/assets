@@ -1,6 +1,6 @@
 {
-  "name": "Jupiter ethena SOL/JUPUSD 5",
-  "symbol": "jveSOL/JUPUSD",
+  "name": "Jupiter ethena USDE/USDG 5",
+  "symbol": "jveUSDE/USDG",
   "description": "Jupiter Lend ethena vault 5",
   "image": "https://cdn.instadapp.io/solana/vaults/nfts/ethena/5.png"
 }
